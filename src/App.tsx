@@ -7,7 +7,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Outlet></Outlet>
-      <Button>clidkc</Button>
+      <Button>click</Button>
     </>
   );
 }

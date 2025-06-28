@@ -11,6 +11,14 @@ const initialState = {
       isComplete: false,
       priorith: "High",
     },
+    {
+      id: "id2",
+      title: "title2",
+      description: "description2",
+      dueDate: "duedate2",
+      isComplete: false,
+      priorith: "High",
+    },
   ],
   filter: "all",
 };
